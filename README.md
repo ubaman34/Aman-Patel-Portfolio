@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!
 
 ## 🚀 Live Demo
-https://your-username.github.io/my-portfolio/
+https://ubaman34.github.io/Aman-Patel-Portfolio/
 
 ## 🛠️ Technologies Used
 - HTML5
